@@ -6,7 +6,7 @@ Minimal Assembly required.
 I do not have the NAS Board on Hand. The printed Case might require some post-processing, or even not fit at all.  
 If you decide to print the Case, please leave me some feedback to further improve the Case.  
 
-An early version of the Case is available for download.
+An early version of the Case is [available for download](https://github.com/Nighthater/CM3588-NAS-Case/tree/master/WIP).
 
 ## Required Components
 - 4 M2 Threaded inserts
