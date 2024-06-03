@@ -1,12 +1,13 @@
-# CM3588 NAS Case - Work in Progess!
+# CM3588 NAS Case
 3D Printable Case for the CM3588 NAS board.  
-Minimal Assembly required.
+Minimal Assembly required.  
+Variants for Installations with fans are included.
+
 
 ### NOTE:
-I do not have the NAS Board on Hand. The printed Case might require some post-processing, or even not fit at all.  
-If you decide to print the Case, please leave me some feedback to further improve the Case.  
+I do not have the NAS Board on Hand. If you decide to print the Case, please leave me some feedback to further improve the Case.  
 
-An early version of the Case is [available for download](https://github.com/Nighthater/CM3588-NAS-Case/tree/master/WIP).
+The Case is [available for download](https://github.com/Nighthater/CM3588-NAS-Case/tree/master/STL).
 
 ## Required Components
 - 4 M2 Threaded inserts
@@ -26,4 +27,4 @@ The screw length must be smaller than 10mm.
 6. Attach the two Panels. The Panels are only using a friction fit currently. This might me improved in later revisions.
 7. The NAS is ready to power up.
 
-<img src="early_prototype.png" width="500">
+<img src="case.png" width="500">
