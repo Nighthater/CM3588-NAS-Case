@@ -31,7 +31,7 @@ The screw length must be smaller than 10mm.
 
 <img src="case.png" width="500">
 
-## Changes from the original repo
-* Just added a taller version of the main body. Uses 80mm Noctua fan.
+## Internal Fan Variant
+Also availible in a taller version with an internal fan. Uses a 80mm Noctua fan.
 <img src="images/TallCase-Assembled.jpg" width="500">
 <img src="images/TallCase-animated.gif" width="500">
