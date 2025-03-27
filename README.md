@@ -30,3 +30,8 @@ The screw length must be smaller than 10mm.
 7. The NAS is ready to power up.
 
 <img src="case.png" width="500">
+
+## Changes from the original repo
+* Just added a taller version of the main body. Uses 80mm Noctua fan.
+<img src="images/TallCase-Assembled.jpg" width="500">
+<img src="images/TallCase-animated.gif" width="500">
