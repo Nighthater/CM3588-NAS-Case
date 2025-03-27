@@ -3,6 +3,8 @@
 Minimal Assembly required.  
 Variants for Installations with fans are included.
 
+If you have a fan, you can use [this code by vijaygill](https://github.com/vijaygill/pwm-fan-cm3588) to control the fans
+
 
 ### NOTE:
 I do not have the NAS Board on Hand. If you decide to print the Case, please leave me some feedback to further improve the Case.  
